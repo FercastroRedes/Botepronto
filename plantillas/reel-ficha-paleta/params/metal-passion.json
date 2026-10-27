@@ -1,0 +1,118 @@
+{
+  "salida": "piezas/pruebas/reel_metal_passion",
+  "version": "oscuro",
+  "duracion": 19.5,
+  "fps": 30,
+  "fotos": {
+    "frente": "assets/recortes/Metal Passion - Frente.png",
+    "detalle": "assets/productos/Palas/Metal Passion - Detalle 1.png",
+    "logo": "assets/logos/logo_negativo_mark.png"
+  },
+  "titulo": "ODPRO METAL PASSION",
+  "callouts": [
+    {
+      "punto": [
+        0.33,
+        0.15
+      ],
+      "numero": 18,
+      "texto": "CARAS CARBONO 18K"
+    },
+    {
+      "punto": [
+        0.5,
+        0.29
+      ],
+      "numero": 15,
+      "texto": "NÚCLEO EVA SOFT 15°"
+    }
+  ],
+  "barras": [
+    {
+      "texto": "POTENCIA",
+      "valor": 100
+    },
+    {
+      "texto": "CONTROL",
+      "valor": 90
+    }
+  ],
+  "specs": "Lágrima · 38 mm · 365 a 375 g · Balance 270",
+  "medida": {
+    "etiqueta": "MEDIDA",
+    "valor": "45,5 x 26 x 3,8 cm"
+  },
+  "precio": 274000,
+  "cta": "Pedila por DM",
+  "envios": "Envíos a todo el país",
+  "escenas": [
+    0,
+    2.0,
+    5.0,
+    7.3,
+    9.6,
+    12.0,
+    15.0,
+    18.0,
+    19.5
+  ],
+  "sonidos": [
+    {
+      "t": 0.0,
+      "archivo": "audio/hit_impacto.wav",
+      "vol": 1.0
+    },
+    {
+      "t": 0.0,
+      "archivo": "audio/quick_woosh.mp3",
+      "vol": 0.7
+    },
+    {
+      "t": 2.0,
+      "archivo": "audio/woosh.wav",
+      "vol": 0.8
+    },
+    {
+      "t": 5.0,
+      "archivo": "audio/punch_corto.ogg",
+      "vol": 0.9
+    },
+    {
+      "t": 7.3,
+      "archivo": "audio/punch_corto.ogg",
+      "vol": 0.9
+    },
+    {
+      "t": 9.6,
+      "archivo": "audio/sfx_golpe.wav",
+      "vol": 1.0,
+      "largo": 1.2
+    },
+    {
+      "t": 12.0,
+      "archivo": "audio/wosh_plastico.wav",
+      "vol": 0.9
+    },
+    {
+      "t": 15.0,
+      "archivo": "audio/riser.wav",
+      "vol": 0.6,
+      "largo": 2.0
+    },
+    {
+      "t": 17.0,
+      "archivo": "audio/caja_registradora.wav",
+      "vol": 0.9
+    },
+    {
+      "t": 18.0,
+      "archivo": "audio/woosh.wav",
+      "vol": 0.8
+    },
+    {
+      "t": 18.2,
+      "archivo": "audio/hit_impacto.wav",
+      "vol": 1.0
+    }
+  ]
+}
